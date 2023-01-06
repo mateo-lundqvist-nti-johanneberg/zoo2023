@@ -65,7 +65,7 @@ body {
 #but1 {
     display: flex;
     background-color: #F4F0DB;
-    border-color: none;
+    
     border: none;
     flex: 1;
     align-items: center;
@@ -78,7 +78,7 @@ body {
 #but2 {
     display: flex;
     background-color: #F4F0DB;
-    border-color: none;
+    
     border: none;
     flex: 1;
     align-items: center;
@@ -92,7 +92,7 @@ body {
 #but3 {
     display: flex;
     background-color: #F4F0DB;
-    border-color: none;
+    
     border: none;
     flex: 1;
     align-items: center;
@@ -105,7 +105,7 @@ body {
 #but1:hover {
     display: flex;
     background-color: #ECD9BA;
-    border-color: none;
+    
     border: none;
     flex: 1;
     align-items: center;
@@ -115,7 +115,7 @@ body {
 #but2:hover {
     display: flex;
     background-color: #ECD9BA;
-    border-color: none;
+    
     border: none;
     flex: 1;
     align-items: center;
@@ -126,7 +126,7 @@ body {
 #but3:hover {
     display: flex;
     background-color: #ECD9BA;
-    border-color: none;
+    
     border: none;
     flex: 1;
     align-items: center;
